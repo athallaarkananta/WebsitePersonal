@@ -1,2 +1,0 @@
-# athalla, untuk intan.
-Web
